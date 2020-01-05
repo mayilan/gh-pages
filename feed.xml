@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>mayilan.net</title>
-    <link href="https://github.com/mayilan/gh-pages/feed.xml" rel="self" />
-    <link href="https://github.com/mayilan/gh-pages" />
-    <updated>2020-01-05T01:52:23-05:00</updated>
+    <link href="https://mayilan.net/feed.xml" rel="self" />
+    <link href="https://mayilan.net" />
+    <updated>2020-01-05T01:54:00-05:00</updated>
     <author>
         <name>mayilan</name>
     </author>
-    <id>https://github.com/mayilan/gh-pages</id>
+    <id>https://mayilan.net</id>
 
     <entry>
         <title>lilly pads</title>
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/lilly-pads.html"/>
-        <id>https://github.com/mayilan/gh-pages/lilly-pads.html</id>
+        <link href="https://mayilan.net/lilly-pads.html"/>
+        <id>https://mayilan.net/lilly-pads.html</id>
 
         <updated>2019-12-31T02:11:46-05:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/at-sea.html"/>
-        <id>https://github.com/mayilan/gh-pages/at-sea.html</id>
+        <link href="https://mayilan.net/at-sea.html"/>
+        <id>https://mayilan.net/at-sea.html</id>
 
         <updated>2019-12-31T02:11:04-05:00</updated>
             <summary></summary>
@@ -38,8 +38,8 @@
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/croisant.html"/>
-        <id>https://github.com/mayilan/gh-pages/croisant.html</id>
+        <link href="https://mayilan.net/croisant.html"/>
+        <id>https://mayilan.net/croisant.html</id>
 
         <updated>2019-12-31T02:10:24-05:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/horses.html"/>
-        <id>https://github.com/mayilan/gh-pages/horses.html</id>
+        <link href="https://mayilan.net/horses.html"/>
+        <id>https://mayilan.net/horses.html</id>
 
         <updated>2019-12-31T02:07:06-05:00</updated>
             <summary></summary>
@@ -62,8 +62,8 @@
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/another-cat.html"/>
-        <id>https://github.com/mayilan/gh-pages/another-cat.html</id>
+        <link href="https://mayilan.net/another-cat.html"/>
+        <id>https://mayilan.net/another-cat.html</id>
 
         <updated>2019-12-31T02:05:40-05:00</updated>
             <summary></summary>
@@ -74,21 +74,21 @@
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/old-sketches.html"/>
-        <id>https://github.com/mayilan/gh-pages/old-sketches.html</id>
+        <link href="https://mayilan.net/old-sketches.html"/>
+        <id>https://mayilan.net/old-sketches.html</id>
 
         <updated>2019-12-31T01:51:28-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose01.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose01.resized-thumbnail.png" alt="" width="312" height="444"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose02.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose02.resized-thumbnail.png" alt="" width="566" height="699"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife01.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife01.resized-thumbnail.png" alt="" width="742" height="766"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife02.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife02.resized-thumbnail.png" alt="" width="451" height="419"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-abstract.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-abstract.resized-thumbnail.png" alt="" width="768" height="825"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-flowergirls.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-flowergirls.resized-thumbnail.png" alt="" width="620" height="676"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-girl01.resized.png" ><img src="https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-girl01.resized-thumbnail.png" alt="" width="574" height="702"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/ink-pose01.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/ink-pose01.resized-thumbnail.png" alt="" width="312" height="444"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/ink-pose02.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/ink-pose02.resized-thumbnail.png" alt="" width="566" height="699"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/ink-stilllife01.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/ink-stilllife01.resized-thumbnail.png" alt="" width="742" height="766"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/ink-stilllife02.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/ink-stilllife02.resized-thumbnail.png" alt="" width="451" height="419"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/pen-abstract.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/pen-abstract.resized-thumbnail.png" alt="" width="768" height="825"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/pen-flowergirls.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/pen-flowergirls.resized-thumbnail.png" alt="" width="620" height="676"></a></figure>
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/2/gallery/pen-girl01.resized.png" ><img src="https://mayilan.net/media/posts/2/gallery/pen-girl01.resized-thumbnail.png" alt="" width="574" height="702"></a></figure>
 </div>
             ]]>
         </content>
@@ -98,8 +98,8 @@
         <author>
             <name>mayilan</name>
         </author>
-        <link href="https://github.com/mayilan/gh-pages/painting-the-fence.html"/>
-        <id>https://github.com/mayilan/gh-pages/painting-the-fence.html</id>
+        <link href="https://mayilan.net/painting-the-fence.html"/>
+        <id>https://mayilan.net/painting-the-fence.html</id>
             <category term="art"/>
 
         <updated>2019-12-31T02:04:46-05:00</updated>

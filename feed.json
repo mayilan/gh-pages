@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "mayilan.net",
     "description": "",
-    "home_page_url": "https://github.com/mayilan/gh-pages",
-    "feed_url": "https://github.com/mayilan/gh-pages/feed.json",
+    "home_page_url": "https://mayilan.net",
+    "feed_url": "https://mayilan.net/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/mayilan/gh-pages/media/website/visualist_logo.png",
+    "icon": "https://mayilan.net/media/website/visualist_logo.png",
     "author": {
         "name": "mayilan"
     },
     "items": [
         {
-            "id": "https://github.com/mayilan/gh-pages/lilly-pads.html",
-            "url": "https://github.com/mayilan/gh-pages/lilly-pads.html",
+            "id": "https://mayilan.net/lilly-pads.html",
+            "url": "https://mayilan.net/lilly-pads.html",
             "title": "lilly pads",
-            "image": "https://github.com/mayilan/gh-pages/media/posts/7/wco-lilypad01.resized.png",
+            "image": "https://mayilan.net/media/posts/7/wco-lilypad01.resized.png",
             "author": {
                 "name": "mayilan"
             },
@@ -24,10 +24,10 @@
             "date_modified": "2019-12-31T02:11:46-05:00"
         },
         {
-            "id": "https://github.com/mayilan/gh-pages/at-sea.html",
-            "url": "https://github.com/mayilan/gh-pages/at-sea.html",
+            "id": "https://mayilan.net/at-sea.html",
+            "url": "https://mayilan.net/at-sea.html",
             "title": "at sea",
-            "image": "https://github.com/mayilan/gh-pages/media/posts/6/wco-seascape05.resized.png",
+            "image": "https://mayilan.net/media/posts/6/wco-seascape05.resized.png",
             "author": {
                 "name": "mayilan"
             },
@@ -37,10 +37,10 @@
             "date_modified": "2019-12-31T02:11:04-05:00"
         },
         {
-            "id": "https://github.com/mayilan/gh-pages/croisant.html",
-            "url": "https://github.com/mayilan/gh-pages/croisant.html",
+            "id": "https://mayilan.net/croisant.html",
+            "url": "https://mayilan.net/croisant.html",
             "title": "croisant",
-            "image": "https://github.com/mayilan/gh-pages/media/posts/5/wco-croissant.resized.png",
+            "image": "https://mayilan.net/media/posts/5/wco-croissant.resized.png",
             "author": {
                 "name": "mayilan"
             },
@@ -50,10 +50,10 @@
             "date_modified": "2019-12-31T02:10:24-05:00"
         },
         {
-            "id": "https://github.com/mayilan/gh-pages/horses.html",
-            "url": "https://github.com/mayilan/gh-pages/horses.html",
+            "id": "https://mayilan.net/horses.html",
+            "url": "https://mayilan.net/horses.html",
             "title": "horses",
-            "image": "https://github.com/mayilan/gh-pages/media/posts/4/wco-horses.resized.png",
+            "image": "https://mayilan.net/media/posts/4/wco-horses.resized.png",
             "author": {
                 "name": "mayilan"
             },
@@ -63,10 +63,10 @@
             "date_modified": "2019-12-31T02:07:06-05:00"
         },
         {
-            "id": "https://github.com/mayilan/gh-pages/another-cat.html",
-            "url": "https://github.com/mayilan/gh-pages/another-cat.html",
+            "id": "https://mayilan.net/another-cat.html",
+            "url": "https://mayilan.net/another-cat.html",
             "title": "another cat",
-            "image": "https://github.com/mayilan/gh-pages/media/posts/3/wco-cat02.resized.png",
+            "image": "https://mayilan.net/media/posts/3/wco-cat02.resized.png",
             "author": {
                 "name": "mayilan"
             },
@@ -76,10 +76,10 @@
             "date_modified": "2019-12-31T02:05:40-05:00"
         },
         {
-            "id": "https://github.com/mayilan/gh-pages/old-sketches.html",
-            "url": "https://github.com/mayilan/gh-pages/old-sketches.html",
+            "id": "https://mayilan.net/old-sketches.html",
+            "url": "https://mayilan.net/old-sketches.html",
             "title": "Old sketches",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose01.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose01.resized-thumbnail.png\" alt=\"\" width=\"312\" height=\"444\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose02.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-pose02.resized-thumbnail.png\" alt=\"\" width=\"566\" height=\"699\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife01.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife01.resized-thumbnail.png\" alt=\"\" width=\"742\" height=\"766\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife02.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/ink-stilllife02.resized-thumbnail.png\" alt=\"\" width=\"451\" height=\"419\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-abstract.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-abstract.resized-thumbnail.png\" alt=\"\" width=\"768\" height=\"825\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-flowergirls.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-flowergirls.resized-thumbnail.png\" alt=\"\" width=\"620\" height=\"676\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-girl01.resized.png\" ><img src=\"https://github.com/mayilan/gh-pages/media/posts/2/gallery/pen-girl01.resized-thumbnail.png\" alt=\"\" width=\"574\" height=\"702\"></a></figure>\n</div>",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-pose01.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-pose01.resized-thumbnail.png\" alt=\"\" width=\"312\" height=\"444\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-pose02.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-pose02.resized-thumbnail.png\" alt=\"\" width=\"566\" height=\"699\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife01.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife01.resized-thumbnail.png\" alt=\"\" width=\"742\" height=\"766\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife02.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife02.resized-thumbnail.png\" alt=\"\" width=\"451\" height=\"419\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/pen-abstract.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/pen-abstract.resized-thumbnail.png\" alt=\"\" width=\"768\" height=\"825\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/pen-flowergirls.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/pen-flowergirls.resized-thumbnail.png\" alt=\"\" width=\"620\" height=\"676\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/pen-girl01.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/pen-girl01.resized-thumbnail.png\" alt=\"\" width=\"574\" height=\"702\"></a></figure>\n</div>",
             "author": {
                 "name": "mayilan"
             },
@@ -89,10 +89,10 @@
             "date_modified": "2019-12-31T01:51:28-05:00"
         },
         {
-            "id": "https://github.com/mayilan/gh-pages/painting-the-fence.html",
-            "url": "https://github.com/mayilan/gh-pages/painting-the-fence.html",
+            "id": "https://mayilan.net/painting-the-fence.html",
+            "url": "https://mayilan.net/painting-the-fence.html",
             "title": "Painting the fence",
-            "image": "https://github.com/mayilan/gh-pages/media/posts/1/wco-backyard03.resized.png",
+            "image": "https://mayilan.net/media/posts/1/wco-backyard03.resized.png",
             "author": {
                 "name": "mayilan"
             },
