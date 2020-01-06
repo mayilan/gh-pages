@@ -3,7 +3,7 @@
     <title>mayilan.net</title>
     <link href="https://mayilan.net/feed.xml" rel="self" />
     <link href="https://mayilan.net" />
-    <updated>2020-01-05T01:54:00-05:00</updated>
+    <updated>2020-01-06T02:12:49-05:00</updated>
     <author>
         <name>mayilan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mayilan.net/lilly-pads.html"/>
         <id>https://mayilan.net/lilly-pads.html</id>
 
-        <updated>2019-12-31T02:11:46-05:00</updated>
+        <updated>2020-01-06T00:54:17-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -76,8 +76,9 @@
         </author>
         <link href="https://mayilan.net/old-sketches.html"/>
         <id>https://mayilan.net/old-sketches.html</id>
+            <category term="blog"/>
 
-        <updated>2019-12-31T01:51:28-05:00</updated>
+        <updated>2020-01-06T01:32:25-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
