@@ -3,12 +3,51 @@
     <title>mayilan.net</title>
     <link href="https://mayilan.net/feed.xml" rel="self" />
     <link href="https://mayilan.net" />
-    <updated>2020-01-06T02:12:49-05:00</updated>
+    <updated>2020-01-14T00:43:49-05:00</updated>
     <author>
         <name>mayilan</name>
     </author>
     <id>https://mayilan.net</id>
 
+    <entry>
+        <title>reading list</title>
+        <author>
+            <name>mayilan</name>
+        </author>
+        <link href="https://mayilan.net/reading-list.html"/>
+        <id>https://mayilan.net/reading-list.html</id>
+            <category term="blog"/>
+
+        <updated>2020-01-14T00:40:20-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Books I am currently reading...</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Books I am currently reading...</p>
+
+<p>Gödel, Escher, Bach: An Eternal Golden Braid<br>by Douglas R. Hofstadter</p>
+<p>The Joy of x: A Guided Tour of Math, from One to Infinity<br>by Steven Strogatz</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>seaside</title>
+        <author>
+            <name>mayilan</name>
+        </author>
+        <link href="https://mayilan.net/seaside.html"/>
+        <id>https://mayilan.net/seaside.html</id>
+            <category term="featured"/>
+            <category term="art"/>
+
+        <updated>2020-01-12T01:13:01-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>lilly pads</title>
         <author>
@@ -16,8 +55,9 @@
         </author>
         <link href="https://mayilan.net/lilly-pads.html"/>
         <id>https://mayilan.net/lilly-pads.html</id>
+            <category term="featured"/>
 
-        <updated>2020-01-06T00:54:17-05:00</updated>
+        <updated>2020-01-12T01:13:13-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -28,20 +68,23 @@
         </author>
         <link href="https://mayilan.net/at-sea.html"/>
         <id>https://mayilan.net/at-sea.html</id>
+            <category term="art"/>
 
-        <updated>2019-12-31T02:11:04-05:00</updated>
+        <updated>2020-01-09T01:45:09-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>croisant</title>
+        <title>croissant</title>
         <author>
             <name>mayilan</name>
         </author>
         <link href="https://mayilan.net/croisant.html"/>
         <id>https://mayilan.net/croisant.html</id>
+            <category term="featured"/>
+            <category term="art"/>
 
-        <updated>2019-12-31T02:10:24-05:00</updated>
+        <updated>2020-01-14T00:01:10-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -52,33 +95,42 @@
         </author>
         <link href="https://mayilan.net/horses.html"/>
         <id>https://mayilan.net/horses.html</id>
+            <category term="art"/>
 
-        <updated>2019-12-31T02:07:06-05:00</updated>
+        <updated>2020-01-11T22:53:49-05:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mayilan.net/media/posts/4/wco-horses.resized.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/4/gallery/wco-horses.resized.png" ><img src="https://mayilan.net/media/posts/4/gallery/wco-horses.resized-thumbnail.png" alt="" width="768" height="535"></a></figure>
+</div>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>another cat</title>
+        <title>sleeping cat</title>
         <author>
             <name>mayilan</name>
         </author>
         <link href="https://mayilan.net/another-cat.html"/>
         <id>https://mayilan.net/another-cat.html</id>
+            <category term="art"/>
 
-        <updated>2019-12-31T02:05:40-05:00</updated>
+        <updated>2020-01-14T00:00:41-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Old sketches</title>
+        <title>a few old sketches</title>
         <author>
             <name>mayilan</name>
         </author>
         <link href="https://mayilan.net/old-sketches.html"/>
         <id>https://mayilan.net/old-sketches.html</id>
-            <category term="blog"/>
+            <category term="art"/>
 
-        <updated>2020-01-06T01:32:25-05:00</updated>
+        <updated>2020-01-14T00:12:36-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -95,7 +147,7 @@
         </content>
     </entry>
     <entry>
-        <title>Painting the fence</title>
+        <title>painting the fence in maitland</title>
         <author>
             <name>mayilan</name>
         </author>
@@ -103,8 +155,21 @@
         <id>https://mayilan.net/painting-the-fence.html</id>
             <category term="art"/>
 
-        <updated>2019-12-31T02:04:46-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-01-14T00:28:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mayilan.net/media/posts/1/wco-backyard03.resized.png" alt="" />
+                    11x13 watercolor 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mayilan.net/media/posts/1/wco-backyard03.resized.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://mayilan.net/media/posts/1/gallery/wco-backyard03.resized.png" ><img src="https://mayilan.net/media/posts/1/gallery/wco-backyard03.resized-thumbnail.png" alt="" width="768" height="530"></a></figure>
+</div>
+<p class="align-right">11x13 watercolor </p>
+            ]]>
+        </content>
     </entry>
 </feed>

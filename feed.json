@@ -5,11 +5,41 @@
     "home_page_url": "https://mayilan.net",
     "feed_url": "https://mayilan.net/feed.json",
     "user_comment": "",
-    "icon": "https://mayilan.net/media/website/visualist_logo.png",
+    "icon": "https://mayilan.net/media/website/visualist-logo.png",
     "author": {
         "name": "mayilan"
     },
     "items": [
+        {
+            "id": "https://mayilan.net/reading-list.html",
+            "url": "https://mayilan.net/reading-list.html",
+            "title": "reading list",
+            "summary": "<p>Books I am currently reading...</p>\n",
+            "content_html": "<p>Books I am currently reading...</p>\n\n<p>Gödel, Escher, Bach: An Eternal Golden Braid<br>by Douglas R. Hofstadter</p>\n<p>The Joy of x: A Guided Tour of Math, from One to Infinity<br>by Steven Strogatz</p>",
+            "author": {
+                "name": "mayilan"
+            },
+            "tags": [
+                   "blog"
+            ],
+            "date_published": "2020-01-14T00:37:11-05:00",
+            "date_modified": "2020-01-14T00:40:20-05:00"
+        },
+        {
+            "id": "https://mayilan.net/seaside.html",
+            "url": "https://mayilan.net/seaside.html",
+            "title": "seaside",
+            "image": "https://mayilan.net/media/posts/9/wco-seascape02.resized.png",
+            "author": {
+                "name": "mayilan"
+            },
+            "tags": [
+                   "featured",
+                   "art"
+            ],
+            "date_published": "2020-01-12T00:01:19-05:00",
+            "date_modified": "2020-01-12T01:13:01-05:00"
+        },
         {
             "id": "https://mayilan.net/lilly-pads.html",
             "url": "https://mayilan.net/lilly-pads.html",
@@ -19,9 +49,10 @@
                 "name": "mayilan"
             },
             "tags": [
+                   "featured"
             ],
             "date_published": "2019-12-31T02:11:46-05:00",
-            "date_modified": "2020-01-06T00:54:17-05:00"
+            "date_modified": "2020-01-12T01:13:13-05:00"
         },
         {
             "id": "https://mayilan.net/at-sea.html",
@@ -32,67 +63,75 @@
                 "name": "mayilan"
             },
             "tags": [
+                   "art"
             ],
             "date_published": "2019-12-31T02:11:04-05:00",
-            "date_modified": "2019-12-31T02:11:04-05:00"
+            "date_modified": "2020-01-09T01:45:09-05:00"
         },
         {
             "id": "https://mayilan.net/croisant.html",
             "url": "https://mayilan.net/croisant.html",
-            "title": "croisant",
+            "title": "croissant",
             "image": "https://mayilan.net/media/posts/5/wco-croissant.resized.png",
             "author": {
                 "name": "mayilan"
             },
             "tags": [
+                   "featured",
+                   "art"
             ],
             "date_published": "2019-12-31T02:10:24-05:00",
-            "date_modified": "2019-12-31T02:10:24-05:00"
+            "date_modified": "2020-01-14T00:01:10-05:00"
         },
         {
             "id": "https://mayilan.net/horses.html",
             "url": "https://mayilan.net/horses.html",
             "title": "horses",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/4/gallery/wco-horses.resized.png\" ><img src=\"https://mayilan.net/media/posts/4/gallery/wco-horses.resized-thumbnail.png\" alt=\"\" width=\"768\" height=\"535\"></a></figure>\n</div>",
             "image": "https://mayilan.net/media/posts/4/wco-horses.resized.png",
             "author": {
                 "name": "mayilan"
             },
             "tags": [
+                   "art"
             ],
             "date_published": "2019-12-31T02:07:06-05:00",
-            "date_modified": "2019-12-31T02:07:06-05:00"
+            "date_modified": "2020-01-11T22:53:49-05:00"
         },
         {
             "id": "https://mayilan.net/another-cat.html",
             "url": "https://mayilan.net/another-cat.html",
-            "title": "another cat",
+            "title": "sleeping cat",
             "image": "https://mayilan.net/media/posts/3/wco-cat02.resized.png",
             "author": {
                 "name": "mayilan"
             },
             "tags": [
+                   "art"
             ],
             "date_published": "2019-12-31T02:05:40-05:00",
-            "date_modified": "2019-12-31T02:05:40-05:00"
+            "date_modified": "2020-01-14T00:00:41-05:00"
         },
         {
             "id": "https://mayilan.net/old-sketches.html",
             "url": "https://mayilan.net/old-sketches.html",
-            "title": "Old sketches",
+            "title": "a few old sketches",
             "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-pose01.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-pose01.resized-thumbnail.png\" alt=\"\" width=\"312\" height=\"444\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-pose02.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-pose02.resized-thumbnail.png\" alt=\"\" width=\"566\" height=\"699\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife01.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife01.resized-thumbnail.png\" alt=\"\" width=\"742\" height=\"766\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife02.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/ink-stilllife02.resized-thumbnail.png\" alt=\"\" width=\"451\" height=\"419\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/pen-abstract.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/pen-abstract.resized-thumbnail.png\" alt=\"\" width=\"768\" height=\"825\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/pen-flowergirls.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/pen-flowergirls.resized-thumbnail.png\" alt=\"\" width=\"620\" height=\"676\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/2/gallery/pen-girl01.resized.png\" ><img src=\"https://mayilan.net/media/posts/2/gallery/pen-girl01.resized-thumbnail.png\" alt=\"\" width=\"574\" height=\"702\"></a></figure>\n</div>",
             "author": {
                 "name": "mayilan"
             },
             "tags": [
-                   "blog"
+                   "art"
             ],
             "date_published": "2019-12-31T01:49:29-05:00",
-            "date_modified": "2020-01-06T01:32:25-05:00"
+            "date_modified": "2020-01-14T00:12:36-05:00"
         },
         {
             "id": "https://mayilan.net/painting-the-fence.html",
             "url": "https://mayilan.net/painting-the-fence.html",
-            "title": "Painting the fence",
+            "title": "painting the fence in maitland",
+            "summary": "11x13 watercolor ",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://mayilan.net/media/posts/1/gallery/wco-backyard03.resized.png\" ><img src=\"https://mayilan.net/media/posts/1/gallery/wco-backyard03.resized-thumbnail.png\" alt=\"\" width=\"768\" height=\"530\"></a></figure>\n</div>\n<p class=\"align-right\">11x13 watercolor </p>",
             "image": "https://mayilan.net/media/posts/1/wco-backyard03.resized.png",
             "author": {
                 "name": "mayilan"
@@ -101,7 +140,7 @@
                    "art"
             ],
             "date_published": "2019-12-31T01:29:27-05:00",
-            "date_modified": "2019-12-31T02:04:46-05:00"
+            "date_modified": "2020-01-14T00:28:54-05:00"
         }
     ]
 }
